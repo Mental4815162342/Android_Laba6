@@ -1,4 +1,4 @@
-package com.example.a.model;
+package com.example.a.photogallery.model;
 
 public class Photo {
 
